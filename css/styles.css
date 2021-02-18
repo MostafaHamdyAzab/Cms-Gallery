@@ -1,0 +1,9 @@
+.home-page-photo{
+    width: 200px;
+    height: 150px !important;
+}
+/*********pagination*************/
+.pager .active li{
+    background-color: black;
+    color: blanchedalmond;
+}
